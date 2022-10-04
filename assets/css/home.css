@@ -1,0 +1,35 @@
+body{
+    background-color: #F6F5F5;
+}
+
+.search{
+    margin-top: 30px;
+}
+
+.search-box {
+    width: 80%;
+}
+
+.container {
+    padding: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #D3E0EA;
+    border-radius: 10px;
+}
+
+.card {
+    width: 40%;
+    margin-bottom: 40px;
+}
+
+.btn{
+    background-color: #276678;
+    color: #F6F5F5;
+}
+
+.btn:hover {
+    background-color: #1687A7;
+    color: #F6F5F5;
+}
